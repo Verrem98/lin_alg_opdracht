@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="Comments en beschrijving toegevoegd voor opdracht 10" />
+    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="Comments en beschrijving toegevoegd voor opdracht 10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +60,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\emiel\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="" />
@@ -190,9 +195,13 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954036358" />
-    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619954096235">
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619954719675">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954096235" />
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954719675" />
+    <state x="1110" y="511" key="svn.repositoryBrowser" timestamp="1619954701802">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1110" y="511" key="svn.repositoryBrowser/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954701802" />
   </component>
 </project>
