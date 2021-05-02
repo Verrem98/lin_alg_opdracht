@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="Comments en beschrijving toegevoegd voor opdracht 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="Nutteloze regel code weggehaald voor opdracht 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +77,7 @@
       <workItem from="1619698077350" duration="602000" />
       <workItem from="1619770625292" duration="1314000" />
       <workItem from="1619951774313" duration="788000" />
+      <workItem from="1619954865385" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="alles tot opdracht 6 af, bezig met 6">
       <created>1618421830618</created>
@@ -150,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619954034573</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Had de .idea map gewist, geen goed idee. Is nu weer terug.">
+      <created>1619954951245</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619954951245</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Nutteloze regel code weggehaald voor opdracht 10">
+      <created>1619955014237</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619955014237</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,9 +189,15 @@
     <MESSAGE value="Opdracht 10 gemaakt!" />
     <MESSAGE value="Verberting opdracht 10, moet mogelijk nog kijken of ik een visual bug op kan lossen.(met int/floats in de square)" />
     <MESSAGE value="Comments en beschrijving toegevoegd voor opdracht 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments en beschrijving toegevoegd voor opdracht 10" />
+    <MESSAGE value="Had de .idea map gewist, geen goed idee. Is nu weer terug." />
+    <MESSAGE value="Nutteloze regel code weggehaald voor opdracht 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nutteloze regel code weggehaald voor opdracht 10" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="248" y="126" key="DiffContextDialog" timestamp="1619954957839">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="248" y="126" key="DiffContextDialog/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954957839" />
     <state x="1060" y="475" key="FileChooserDialogImpl" timestamp="1618653504054">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -191,14 +210,14 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="365" key="SettingsEditor/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1618388809145" />
-    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1619954036358">
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1619955018016">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954036358" />
-    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619954719675">
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619955018016" />
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619955177854">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619954719675" />
+    <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1619955177854" />
     <state x="1110" y="511" key="svn.repositoryBrowser" timestamp="1619954701802">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
