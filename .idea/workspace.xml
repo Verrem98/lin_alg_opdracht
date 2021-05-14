@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="proberen .idea toe te voegen aan gitignore" />
+    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="werken aan unit charlie">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0 Theorie en Oefeningen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0 Theorie en Oefeningen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Calculus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2 Calculus.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +82,7 @@
       <workItem from="1619770625292" duration="1314000" />
       <workItem from="1619951774313" duration="788000" />
       <workItem from="1619954865385" duration="535000" />
+      <workItem from="1620737461400" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="alles tot opdracht 6 af, bezig met 6">
       <created>1618421830618</created>
