@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="werken aan unit charlie">
+    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="Aangepast aan feedback van Maria:&#10;&#10;- len van een matrix vervangen door .shape&#10;- nutteloze haakjes weggehaald&#10;- multiply_list functie verbeterd&#10;- nog wat 'pass' weggehaald">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 Lineaire Algebra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1 Lineaire Algebra.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Calculus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2 Calculus.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1619951774313" duration="788000" />
       <workItem from="1619954865385" duration="535000" />
       <workItem from="1620737461400" duration="612000" />
-      <workItem from="1620986829153" duration="1220000" />
+      <workItem from="1620986829153" duration="1298000" />
+      <workItem from="1621420916722" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="alles tot opdracht 6 af, bezig met 6">
       <created>1618421830618</created>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620988394008</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Aangepast aan feedback van Maria:&#10;&#10;- len van een matrix vervangen door .shape&#10;- nutteloze haakjes weggehaald&#10;- multiply_list functie verbeterd&#10;- nog wat 'pass' weggehaald">
+      <created>1620990325343</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620990325343</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +220,8 @@
     <MESSAGE value="Nutteloze regel code weggehaald voor opdracht 10" />
     <MESSAGE value="proberen .idea toe te voegen aan gitignore" />
     <MESSAGE value="0 charlie gemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="0 charlie gemaakt" />
+    <MESSAGE value="Aangepast aan feedback van Maria:&#10;&#10;- len van een matrix vervangen door .shape&#10;- nutteloze haakjes weggehaald&#10;- multiply_list functie verbeterd&#10;- nog wat 'pass' weggehaald" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aangepast aan feedback van Maria:&#10;&#10;- len van een matrix vervangen door .shape&#10;- nutteloze haakjes weggehaald&#10;- multiply_list functie verbeterd&#10;- nog wat 'pass' weggehaald" />
   </component>
   <component name="WindowStateProjectService">
     <state x="248" y="126" key="DiffContextDialog" timestamp="1619954957839">
@@ -231,10 +240,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="365" key="SettingsEditor/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1618388809145" />
-    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1620988395558">
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1620990354886">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1620988395558" />
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1620990354886" />
     <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619955177854">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
