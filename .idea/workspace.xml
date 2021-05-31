@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="made graph for unit delta opd 8">
+    <list default="true" id="050fee0a-584b-43bc-9ee8-6fa13dad6618" name="Default Changelist" comment="ALLES AF">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Calculus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2 Calculus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0 Theorie en Oefeningen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0 Theorie en Oefeningen.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,8 @@
       <workItem from="1621607890732" duration="1194000" />
       <workItem from="1621948727222" duration="10000" />
       <workItem from="1622417493046" duration="279000" />
-      <workItem from="1622417781561" duration="1257000" />
+      <workItem from="1622417781561" duration="1400000" />
+      <workItem from="1622455033148" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="alles tot opdracht 6 af, bezig met 6">
       <created>1618421830618</created>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621607528480</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ALLES AF (deze keer wel gecommit)">
+      <created>1622420296334</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1622420296334</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +268,8 @@
     <MESSAGE value="checkpoint charlie tot de laatste opdracht" />
     <MESSAGE value="checkpoint charlie af" />
     <MESSAGE value="made graph for unit delta opd 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="made graph for unit delta opd 8" />
+    <MESSAGE value="ALLES AF (deze keer wel gecommit)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ALLES AF (deze keer wel gecommit)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="248" y="126" key="DiffContextDialog" timestamp="1619954957839">
@@ -280,11 +289,11 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="781" y="365" key="SettingsEditor/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1618388809145" />
-    <state x="-1266" y="340" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1621607532242">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1622420315603">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="-1266" y="340" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1621607532242" />
-    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1621588479214" />
+    <state x="872" y="453" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.0.1920.1080@0.0.2560.1440" timestamp="1622420315603" />
     <state x="1097" y="634" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619955177854">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
